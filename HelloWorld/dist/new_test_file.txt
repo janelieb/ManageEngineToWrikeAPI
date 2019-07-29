@@ -1,3 +1,0 @@
-
-sent get to api
-sent post to api
